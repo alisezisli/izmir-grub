@@ -1,2 +1,2 @@
-# izmir-grub
-Kendi GRUB Temanızı Oluşturun yazım için hazırladım tema örneği.
+# İzmir GRUB Teması
+[Kendi GRUB Temanızı Oluşturun](https://alisezisli.com.tr/kendi-grub-temanizi-olusturun/) yazım için hazırladığım tema örneği.
