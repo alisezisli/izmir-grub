@@ -1,0 +1,31 @@
+#Global Özellikler
+desktop-image: "background.png"
+desktop-image-scale-method: "stretch"
+title-text: "Ege'nin İncisi"
+
+#Boot Menu
++ boot_menu {
+	menu_pixmap_style = "boot_menu_*.png"
+	width = 55%
+	height = 15%
+	top = 13%
+	left = 5%
+	item_color = "#FFFFFF"
+	selected_item_color = "#FF0000"
+	item_height = 35
+	item_padding = 8
+	item_spacing = 8
+}
+
+#Progress Bar
++ progress_bar {
+	id = "__timeout__"
+	width = 30%
+	height = 55
+	top = 80%
+	left = 5%
+	text = "Cihazın açılmasına %d saniye kaldı"
+	text_color = "#FFFFFF"
+	bar_style = "progress_bar_*.png"
+	highlight_style = "progress_highlight_*.png"
+}
